@@ -35,3 +35,7 @@ print(dl)
 l=[1,2,3,4]
 dl=[num**2 for num in l]
 print(dl)
+
+l=[x for x in range(1,11)]
+dl=[x*2 for x in l]
+print(dl)

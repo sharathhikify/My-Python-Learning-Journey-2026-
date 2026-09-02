@@ -1,7 +1,1 @@
-a=10
-b=20
-a=20
-b=10
-
-print(a)
-print(b)
+print("hello ")
